@@ -1,2 +1,7 @@
-literally namaku itu "I Gede Gelgel Abdiutama"
-spill "Namaku : " + namaku
+literally tugas itu "FPB & KPK"
+spill "Tugas : " + tugas
+
+seriously bil1 itu 5
+seriously bil2 itu 2
+spill bil1+bil2
+
